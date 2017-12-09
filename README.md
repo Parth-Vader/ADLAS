@@ -1,4 +1,4 @@
-# Autonomous Dynamic Learning Apprentice System,
+# Autonomous Dynamic Learning Apprentice System
 
 ![ADLAS](https://raw.githubusercontent.com/Parth-Vader/ADLAS/master/ADLAS/banner.png?token=APhACHQEhdk_b0pZJ21L4LJYVAhnKaP9ks5aNPHMwA%3D%3D)
 
