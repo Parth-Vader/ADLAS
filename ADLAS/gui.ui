@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface>
+  <object class="ttk.Labelframe" id="Labelframe_1">
+    <property name="borderwidth">5</property>
+    <property name="cursor">draft_small</property>
+    <property name="height">250</property>
+    <property name="relief">raised</property>
+    <property name="text" translatable="yes">ADLAS</property>
+    <property name="underline">5</property>
+    <property name="width">500</property>
+    <layout>
+      <property name="column">1</property>
+      <property name="propagate">True</property>
+      <property name="row">4</property>
+    </layout>
+    <child>
+      <object class="ttk.Label" id="IMAGE">
+        <property name="background">#000000</property>
+        <property name="borderwidth">5</property>
+        <property name="cursor">arrow</property>
+        <property name="foreground">#000000</property>
+        <property name="image">banner.png</property>
+        <property name="justify">center</property>
+        <property name="relief">groove</property>
+        <property name="text" translatable="yes">Image</property>
+        <layout>
+          <property name="column">1</property>
+          <property name="ipadx">0</property>
+          <property name="ipady">0</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="ttk.Button" id="Button_1">
+        <property name="command">on_click</property>
+        <property name="text" translatable="yes">Start</property>
+        <layout>
+          <property name="column">1</property>
+          <property name="columnspan">1</property>
+          <property name="propagate">True</property>
+          <property name="row">3</property>
+          <property name="rowspan">1</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="ttk.Label" id="Lbl">
+        <layout>
+          <property name="column">1</property>
+          <property name="propagate">True</property>
+          <property name="row">2</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="ttk.Label" id="Label_3">
+        <layout>
+          <property name="column">1</property>
+          <property name="propagate">True</property>
+          <property name="row">4</property>
+        </layout>
+      </object>
+    </child>
+  </object>
+</interface>

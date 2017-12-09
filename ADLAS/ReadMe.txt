@@ -1,0 +1,3 @@
+"BegSetCreate.cpp" gets input from "prev.csv" and "now.csv" and the finds the apps that were opened just now. It saves these apps in "BegSetNow.txt"
+Then "check.cpp" gets these files and checks them against "clusters.txt" to get te files that are to be opened. It saves these apps in "filestorun.csv"
+"RunApps.cpp" takes "filestorun.csv", converts it word by word(app by app) to "word.txt" and using "RunApp.py" runs the apps.
