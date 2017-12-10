@@ -9,6 +9,8 @@
 
 * An abstract for the same is present [here](https://github.com/Parth-Vader/ADLAS/blob/master/ADLAS_Abstract.pdf) and the pdf version of the documentation is [here](https://github.com/Parth-Vader/ADLAS/blob/master/ADLAS_Documentation.pdf).
 
+> ## Currently supports Windows only.
+
 ## Documentation
 
 ### Overview
